@@ -1,0 +1,52 @@
+# Compiled class files
+*.class
+
+# Maven build output
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.recommenders
+
+# Visual Studio Code
+.vscode/
+
+# Local SQLite databases (prevent private/test database files from committing)
+*.db
+*.sqlite
+*.sqlite3
+expenses.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Log files
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
