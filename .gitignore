@@ -50,3 +50,7 @@ ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 .DS_Store
+
+# Nested repo folders
+Student-Expense-Tracker/
+
